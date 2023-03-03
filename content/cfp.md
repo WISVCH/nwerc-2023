@@ -10,13 +10,13 @@ menu: main
 
 We are pleased to announce the Call for Problems (CfP) for the 2023 edition of the NWERC programming contest.
 
-The tentative date for the contest is late November or early 2023, and is expected to take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2023 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!
+The tentative date for the contest is late November or early December 2023, and is expected to take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2023 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!
 
 Questions regarding this call can be posed to: [cfp@2023.nwerc.eu](mailto:cfp@2023.nwerc.eu)
 
 # Selection Procedure
 
-The extended deadline for submitting candidate problems is **July 17, 2023** (was: July 11, 2023).
+The deadline for submitting candidate problems is **July 10, 2023**.
 
 The selection committee aims to select a subset of the submitted problems for use in the contest by mid-August. Selection criteria include problem novelty, and the goal of making a well-balanced problem set in terms of algorithmic topics, and degrees of problem difficulty. You are encouraged to submit at least two candidate problems for consideration rather than one.
 
