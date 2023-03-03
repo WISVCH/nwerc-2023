@@ -1,6 +1,5 @@
 ---
 title: "Contest"
-date: 2022-04-18T12:56:52+02:00
 weight: 2
 draft: false
 menu: main

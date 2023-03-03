@@ -1,6 +1,5 @@
 ---
 title: "Accommodations"
-date: 2022-10-15T18:30:00+02:00
 weight: 10
 draft: true
 menu: main
