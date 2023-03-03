@@ -3,7 +3,7 @@ title: "Teams"
 weight: 4
 draft: true
 type: page
-menu: main
+#menu: main
 ---
 The following teams are competing in NWERC 2022. The numbers in parentheses represent the location of the team's workstation.
 
