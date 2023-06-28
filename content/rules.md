@@ -1,40 +1,21 @@
 ---
 title: "Rules"
 weight: 5
-draft: true
 menu: main
 type: page
 ---
+*These rules are preliminary, and can be subject to change*
+
 The ICPC regional contest rules can be found at the ICPC regionals website; [official ICPC regional rules](https://icpc.global/regionals/rules).
 
 In addition to the offical ICPC regional Rules, the following local rules also apply:
 
 ## Team composition
-A student may compete when eligible according to the [official ICPC regional rules](https://icpc.global/regionals/rules) summarized in the [2022 ICPC Regionals Eligibility Diagram](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view).
+A student may compete when eligible according to the [official ICPC regional rules](https://icpc.global/regionals/rules).
 
 * A team consists of 3 eligible students.
 * The educational institutions must be from one of the region's member countries. By special request, teams from other countries may be allowed to participate in this region, as stated in the ICPC Regional Rules.
 * All teams who want to participate must be registered.
-
-### Special Rules for NWERC 2022
-Please pay special attention to the following section of the [official ICPC regional rules](https://icpc.global/regionals/rules).
-This is relevant for teams that qualified for the world finals last year.
-> In effect for advancing teams to ICPC World Finals 2022 from ICPC Regionals 2021/22 and ICPC World Finals 2023 from ICPC Regionals 2022/23 that permit holding these two World Finals as a single event and catching up on COVID scheduling.  Please read carefully:
->
-> 1. A student may compete in only one of these two Championships.
->
-> 2. A qualified student on a team that qualified for the 2022 World Finals may compete in this year’s ICPC Regionals 2022/23 which advances to ICPC World Finals 2023.
->
-> 3. A qualified student on different teams that qualify for ICPC World Finals 2022 and ICPC World Finals 2023 will participate on the team qualifying for the 2023 World Finals. The coach of the team qualifying for the 2022 World Finals may request a qualified replacement. Details later.
->
-> 4. A team that qualified for both ICPC World Finals 2022 and ICPC World Finals 2023 will compete in only one of the World Finals. The coaches of the team may request advancing another team that would have qualified so that they have teams competing in both World Finals. Details later.
->
-> 5. Qualifying to compete in ICPC World Finals 2022 and ICPC World Finals 2023 will be counted as participation in one World Finals towards the max participation in two World Finals when determining eligibility for ICPC Regionals 2023/24 and beyond.
->
-> 6. A student or team that qualified for ICPC World Finals 2022 or ICPC World Finals 2023 together with ICPC World Finals 2021 in Dhaka may compete in both.  Note:  This resolves a multiple contest year overlap problem.
->
-> 7. Regional participation in ICPC Regionals 2021/22 and ICPC Regionals 2022/23 counts as only one year of regional competition.
-
 
 
 ## Contest Materials
