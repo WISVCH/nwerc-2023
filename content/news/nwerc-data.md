@@ -3,7 +3,7 @@ title: Announcing the NWERC 2023 date
 tags: ['nwerc 2023']
 ---
 We are happy to announce that the 2023 edition of the Northwestern Europe Regional Contest (NWERC) will be held from the
-24th to the 26th of November. The contest will be hosted this year again by the Delft University of Technology. We are
+24th until the 26th of November. The contest will be hosted this year again by the Delft University of Technology. We are
 looking forward to welcoming 140 teams to compete for slots for the 2024 ICPC World Finals. More information will be
 published in the coming months on this website.
 
