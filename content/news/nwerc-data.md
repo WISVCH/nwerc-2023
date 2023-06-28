@@ -16,8 +16,8 @@ subregionals are held on the 28th of October and have a small window for registr
 
 ### Call for Problems
 
-The call for problems is still open for submissions for problems. More information can be found [here](/cfp) or by
-contacting the jury at cfp@2023.nwerc.eu. 
+The call for problems is still open for submissions for problems.
+More information can be found [here](/cfp) or by contacting the jury at cfp@2023.nwerc.eu.
 
 
 ### Call for Hosts 
