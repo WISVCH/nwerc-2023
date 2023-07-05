@@ -1,13 +1,12 @@
 ---
 title: "Registration"
 weight: 4
-draft: true
+draft: false
+menu: main
 type: page
 ---
-**Update: Registration is now closed.**
-
-Registration will open at the 1st of October and will close on the 3rd of November. Registration will be done through
-the [ICPC system](https://icpc.global/regionals/finder/northwestern-europe-2022).
+Registration will open at the 28th of June and will close on **Friday the 3rd of November**. Registration will be done through
+the [ICPC system](https://icpc.global/regionals/finder/Northwestern-Europe-2024).
 Teams can be promoted from the subregionals.
 Teams will only be accepted once the last subregional (29th of October) has taken place.
 
@@ -20,4 +19,4 @@ The following rules will be adhered to when accepting teams.
 * Second teams will be granted as long as we do not exceed the maximum number of teams.
 * Third & fourth teams will be awarded based on subregional performance.
 * No *(n+1)*-th team will be awarded when a different eligible institution has not yet been awarded an *n*-th team.
-* Preferences of team order can be emailed to contact@2022.nwerc.eu
+* Preferences of team order can be emailed to contact@2023.nwerc.eu

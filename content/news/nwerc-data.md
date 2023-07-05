@@ -10,7 +10,7 @@ published in the coming months on this website.
 ### Registration
 
 The registration for teams is done through
-the [ICPC registration system](https://icpc.global/regionals/finder/northwestern-europe).
+the [ICPC registration system](https://icpc.global/regionals/finder/Northwestern-Europe-2024).
 Registration is currently open. The registration deadline is Friday the 3rd of November. Please be aware that some
 subregionals are held on the 28th of October and have a small window for registration.
 
