@@ -11,7 +11,7 @@ The ICPC regional contest rules can be found at the ICPC regionals website; [off
 In addition to the offical ICPC regional Rules, the following local rules also apply:
 
 ## Team composition
-A student may compete when eligible according to the [official ICPC regional rules](https://icpc.global/regionals/rules).
+A student may compete when eligible according to the [official ICPC regional rules](https://icpc.global/regionals/rules)  summarized in the [2023 ICPC Regionals Eligibility Diagram](https://drive.google.com/file/d/15Wk1nODkAqdUuS6tZnCt2Wrscpvx1QGO/view).
 
 * A team consists of 3 eligible students.
 * The educational institutions must be from one of the region's member countries. By special request, teams from other countries may be allowed to participate in this region, as stated in the ICPC Regional Rules.
