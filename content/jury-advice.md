@@ -1,7 +1,6 @@
 ---
 title: "Advice, Hints, and General Information from the NWERC Jury"
 weight: 6
-draft: true
 menu:
   main:
     name: Jury Advice
@@ -17,7 +16,7 @@ type: page
   If your submission is incorrect,
   the error message you get will be the error that occurred
   on the first input file on which you failed.
-  E.g., if your submission is prone to crash but also incorrect,
+  E.g. if your submission is prone to crash but also incorrect,
   your submission may be judged as either "Wrong Answer" or "Run Time Error",
   depending on which is discovered first.
 
@@ -30,7 +29,7 @@ type: page
 - Each problem will have a stated time limit.
   This time limit is per input file and refers to CPU time,
   which includes time spent on slow parsing
-  (e.g., using `Scanner` in Java).
+  (e.g. using `Scanner` in Java).
 
 - All judging machines are physically identical
   to the laptops provided to you during the contest
@@ -42,17 +41,16 @@ type: page
   it is in your best interest to use buffered input and output in Java.
   We have tried to make sure that the I/O-intensive problems
   are solvable using even slow I/O.
-  But for some problems it can be more difficult to get accepted
+  But for some problems, it can be more difficult to get accepted
   using e.g. the `Scanner` class,
   since it consumes a significant amount of valuable CPU time
   that could otherwise be used by your algorithm.
   In most cases, a `BufferedReader` will be more efficient.
   Also consider explicit output buffering
-  (e.g., by using the `BufferedWriter` class)
+  (e.g. by using the `BufferedWriter` class)
   to avoid flushing every line of output separately.
 
-- We guarantee that every problem is solvable in C++, Java, and Python 3.
-  There is no such guarantee for Kotlin.
+- We guarantee that every problem is solvable in C++, Python 3, Java, and Kotlin.
 
 
 ## Problem Statements
@@ -69,14 +67,14 @@ input and output are meant to be the easiest parts of the problems!
   we do not require you to output
   exactly the right number of spaces and newlines.
   Errors in whitespace within reason will be accepted,
-  but if all whitespace between two tokens are omitted,
+  but if all whitespace between two tokens is omitted,
   that is (of course) an error.
 
 - For problems with real-valued output,
   we generally only require that your output is correct
   up to a certain absolute or relative error.
   In the case that both are specified, the largest of the two applies.
-  For example, if the problem statement requests a
+  For example, if the problem statement requests an
   "absolute or relative error of at most $10^{-6}$", this means that:
 
   - If the correct answer is $0.005$, any answer between $0.004999$ and $0.005001$ will be accepted.  
@@ -101,7 +99,7 @@ input and output are meant to be the easiest parts of the problems!
 ## Interactive Problems
 
 - The contest typically includes interactive problems.
-  Each interactive problem is accompanied with a Python script
+  Each interactive problem is accompanied by a Python script
   to help with testing your solutions locally.
   The tool attempts to detect and report common errors,
   but it is not guaranteed that a program that passes the testing tool
