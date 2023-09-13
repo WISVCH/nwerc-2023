@@ -56,7 +56,7 @@ type: page
 ## Problem Statements
 
 We generally try to make the input and output formats
-as easy as possible to follow for you as contestants —
+as easy as possible to follow for you as contestants –
 input and output are meant to be the easiest parts of the problems!
 
 - For input, multiple numbers or words on one input line
