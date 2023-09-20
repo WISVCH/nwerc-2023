@@ -1,7 +1,7 @@
 ---
 title: "Location"
 weight: 9
-draft: true
+draft: false
 menu: main
 type: page
 ---
