@@ -43,4 +43,6 @@ mats/bags and breakfast. You will be able to shower on the site. Entry to the sl
 
 Note that the sports halls will be used during the day, so you will need to clear away your sleeping bags before 07:00 on both days.
 
-We have room for 150 people, based on first come, first served. To register, please fill in [this form](TODO).
+We have room for 150 people, based on first come, first served. Registration for the X sleeping places will open closer to the contest.
+
+All the above information is subject to change. 
