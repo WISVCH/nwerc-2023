@@ -4,7 +4,6 @@ link-title: "CFP"
 draft: false
 type: page
 weight: 1
-menu: main
 ---
 
 We are pleased to announce the Call for Problems (CfP) for the 2023 edition of the NWERC programming contest.

@@ -1,7 +1,7 @@
 ---
 title: "Accommodations"
 weight: 10
-draft: true
+draft: false
 menu: main
 type: page
 ---
