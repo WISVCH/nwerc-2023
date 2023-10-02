@@ -8,21 +8,21 @@ type: page
 There are many hotels in Delft.
 Here is a list of possible hotels that are not very
 expensive and are easy to travel from to the campus.
-* The student hotel Delft
-  * Cost: 60-95 euros per night per person
-  * Breakfast is possible for 25 euros
+* The Social Hub Delft
+  * Cost: 90-140 euros per night per person
+  * Breakfast is possible for 30 euros
   * 20 minutes walk or 5 minutes by bus to contest location
   * Next to Delft station: Van Leeuwenhoekpark 1, 2611 DW Delft
   * More information: [https://www.thestudenthotel.com/delft/](https://www.thestudenthotel.com/delft/)
 * Hotel Royal Bridges
-  * Cost: 60-110 euros per night per person
+  * Cost: 50-100 euros per night per person
   * Breakfast possible for 15 euros
   * 20 minutes walk or 5 minutes by bus to contest location
   * In city centre: Koornmarkt 55-65, 2611 EC Delft
   * More information: [https://www.royalbridges.nl/en/](https://www.royalbridges.nl/en/)
 * Ibis Styles Delft City Center
-  * Cost: 65-85 euros per night per person
-  * Breakfast possible for 13 euros
+  * Cost: 60-100 euros per night per person
+  * Breakfast possible for 15 euros
   * 20 minutes walk or 5 minutes by bus to contest location
   * Next to Delft station: Van Leeuwenhoekpark 2, 2611 DW Delft
   * More information: [https://www.ibisstylesdelftcity.nl/en/](https://www.ibisstylesdelftcity.nl/en/)
@@ -43,4 +43,6 @@ mats/bags and breakfast. You will be able to shower on the site. Entry to the sl
 
 Note that the sports halls will be used during the day, so you will need to clear away your sleeping bags before 07:00 on both days.
 
-We have room for 150 people, based on first come, first served. To register, please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfh7WRnkkX405KZ4eeHrAWUpjRpMi2tXA8jiD9VkIUoaAA7IA/viewform?usp=sf_link).
+We have room for 150 people, based on first come, first served. Registration for the X sleeping places will open closer to the contest.
+
+All the above information is subject to change. 
