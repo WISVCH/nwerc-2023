@@ -15,7 +15,7 @@ The configuration of each laptop will be as follows:
 
 ## Hardware
 
-The laptop will be an HP ProBook 650 G5 and will have the following hardware specifications:
+The laptop will be a Lenovo ThinkPad E570 and will have the following hardware specifications:
 - Intel Core i7 7500U Processor
     - 2 cores, hyperthreading disabled
     - CPU frequency 2.70 GHz, turboboost disabled
