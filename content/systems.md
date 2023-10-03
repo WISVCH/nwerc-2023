@@ -71,7 +71,6 @@ The software configuration will consist of the following:
     - Code::Blocks
         - Version: 20.03
 
-        
 ## Languages
 
 The following languages are allowed during the contest:
