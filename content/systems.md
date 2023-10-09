@@ -3,7 +3,6 @@ title: Systems
 type: page
 weight: 7
 menu: main
-draft: true
 ---
 
 This page describes current plans for the Programming Environment which will be available to each NWERC 2023 team.
@@ -15,11 +14,11 @@ The configuration of each laptop will be as follows:
 
 ## Hardware
 
-The laptop will be an HP ProBook 650 G5 and will have the following hardware specifications:
-- Intel Core i5 8265U Processor
-    - 4 cores, hyperthreading disabled
-    - CPU frequency 1.6GHz, turboboost disabled
-- 8GB of RAM
+The laptop will be a Lenovo ThinkPad E570 and will have the following hardware specifications:
+- Intel Core i7 7500U Processor
+    - 2 cores, hyperthreading disabled
+    - CPU frequency 2.70 GHz, turboboost disabled
+- 16GB of RAM
 
 ## Software
 
@@ -37,29 +36,28 @@ The software configuration will consist of the following:
     - gedit
     - geany
     - kate
-    - atom
 - IDEs:
-    - IntelliJ Community
-        - Version: 2021.3.2
-        - Workspace is already set up
+    - IntelliJ IDEA Community
+        - Version: 2022.3
+        - Workspace is already set up but needs to be opened from the welcome screen
         - Plugins:
-        - IdeaVim
+            - IdeaVim
     - CLion
-        - Version: 2021.3.3
+        - Version: 2022.3
         - Workspace is already set up
         - Plugins:
             - IdeaVim
     - PyCharm Community
-        - Version: 2021.3.2
+        - Version: 2022.3
         - Workspace is already set up
         - Plugins:
             - IdeaVim
     - Eclipse
-        - Version: 2021-12
+        - Version: 2022-12
         - Plugins:
             - PyDev
     - Visual Studio Code
-        - Version: 1.71.1
+        - Version: 1.82.2
         - Plugins:
             - C/C++ - Microsoft
             - C# - Microsoft
@@ -72,21 +70,20 @@ The software configuration will consist of the following:
     - Code::Blocks
         - Version: 20.03
 
-
 ## Languages
 
 The following languages are allowed during the contest:
 
 - C
-    - Compiler version: 11.2.0
+    - Compiler version: 11.3.0
     - Standard: gnu17
 - C++
-    - Compiler version: 11.2.0
+    - Compiler version: 11.3.0
     - Standard: gnu++20
 - Python
     - Version: PyPy 7.3.9 (Python 3.8.13)
 - Java
-    - Version: 17.0.4
+    - Version: 17.0.6
 - Kotlin
     - Version: 1.6.0
 
