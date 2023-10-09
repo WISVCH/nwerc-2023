@@ -3,7 +3,6 @@ title: Systems
 type: page
 weight: 7
 menu: main
-draft: true
 ---
 
 This page describes current plans for the Programming Environment which will be available to each NWERC 2023 team.
