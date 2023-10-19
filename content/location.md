@@ -9,13 +9,15 @@ The contest will take place at the [Aula Conference Centre](https://map.tudelftc
 
 
 ## To Delft by Car
-Parking is free of charge on campus between Friday 18:00 and Monday 08:00. The six large parking areas are well signposted on the campus ring road.
 
 * At the A13/E19 between Rotterdam and Den Haag, take exit 10, Delft-Zuid/TU Delft.
 * Follow the Signs TU Delft until you drive on a downward slope until the crossing with the Schoenmakerstraat.
 * Go right on to the Schoenmakerstraat and you have arrived at the campus ring road.
 
-Recommended parking locations:
+Parking on the street is paid on all days (except Sunday) from 12:00 until 24:00.
+At campus parking locations, parking is free between Friday 18:00 and Monday 08:00.
+The six large campus parking locations are well signposted on the campus ring road.
+Recommended campus parking locations:
 
 * P Aula (navigation address Van der Waalsweg 1)
 * P EWI, 8-minute walk (navigation address Feldmannweg 2)
