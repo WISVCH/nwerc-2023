@@ -36,6 +36,7 @@ toy animals or party hats (provided they do not violate any of the above constra
 team needs at the contest, please contact the Head of Jury.
 
 Teams are allowed to bring one keyboard to replace the keyboard provided by the notebook. Note that keyboards with pre-programmed
-macro keys are not allowed. Wireless keyboards are also not allowed. A (single) mouse is allowed too, but is subject to the same macro rule as with the keyboard.
+macro keys are not allowed. Wireless keyboards are also not allowed.
+A (single) mouse is allowed too, but is subject to the rules as the keyboard (must be wired, must not be programmable).
 
 Keyboard, mouse, and Team Reference Documents should be handed in at the registration.
