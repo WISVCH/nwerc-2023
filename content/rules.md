@@ -6,9 +6,11 @@ type: page
 ---
 *These rules are preliminary, and can be subject to change*
 
+**Update 2 November**: It is no longer allowed to replace the provided mouse. You are not allowed to wear a watch during the contest.
+
 The ICPC regional contest rules can be found at the ICPC regionals website; [official ICPC regional rules](https://icpc.global/regionals/rules).
 
-In addition to the offical ICPC regional Rules, the following local rules also apply:
+In addition to the official ICPC regional Rules, the following local rules also apply:
 
 ## Team composition
 A student may compete when eligible according to the [official ICPC regional rules](https://icpc.global/regionals/rules),
@@ -22,8 +24,8 @@ summarized in the [2023-24 ICPC Regionals Eligibility Diagram](https://drive.goo
 ## Contest Materials
 We follow the World Finals’ Rules, so a team is allowed to bring 3 copies of their Team Reference document, but not allowed
 to bring any additional reference materials such as books, program listings and notes! You may not bring any electronic device
-or machine-readable media (this includes but is not limited to cell phones, digital cameras, and mp3 players). You may bring
-pens or pencils, but not paper (these will be provided). Winter coats, bags etc should not be brought to the contest floor.
+or machine-readable media (this includes but is not limited to cell phones, **watches**, digital cameras, and mp3 players). You may bring
+pens or pencils, but not paper (these will be provided). Winter coats, bags, etc. should not be brought to the contest floor.
 
 Each contestant may bring a copy of a Team Reference Document. This document may contain up to 25 pages of reference materials,
 single-sided, letter or A4 size, with pages numbered in the upper right-hand corner and your university name printed in the upper
@@ -36,6 +38,6 @@ toy animals or party hats (provided they do not violate any of the above constra
 team needs at the contest, please contact the Head of Jury.
 
 Teams are allowed to bring one keyboard to replace the keyboard provided by the notebook. Note that keyboards with pre-programmed
-macro keys are not allowed. Wireless keyboards are also not allowed. A (single) mouse is allowed too, but is subject to the same macro rule as with the keyboard.
+macro keys are not allowed. Wireless keyboards are also not allowed. A mouse will be provided and may not be replaced by the team. 
 
 Keyboard, mouse, and Team Reference Documents should be handed in at the registration.
