@@ -35,14 +35,12 @@ expensive and are easy to travel from to the campus.
 
 # Sleeping at TU Delft Campus
 
-We provide 150 sleeping places for free at the TU Delft Campus in a sport hall. This requires you to bring your own sleeping
+We provide 100 sleeping places for free at the TU Delft Campus in a sport hall. This requires you to bring your own sleeping
 mats/bags and breakfast. You will be able to shower on the site. Entry to the sleeping hall is possible on the following dates:
 
-* Friday night to Saturday morning: from 00:00 until 07:00
-* Saturday night to Sunday morning: from 22:00 until 07:00
+* Friday night to Saturday morning: from 22:00 until 08:00
+* Saturday night to Sunday morning: from 22:00 until 08:00
 
 Note that the sports halls will be used during the day, so you will need to clear away your sleeping bags before 07:00 on both days.
 
-We have room for 100 people, based on first come, first served. Registration for the X sleeping places will open closer to the contest.
-
-All the above information is subject to change. 
+We have room for 100 people, based on first come, first served. Registration for the X sleeping places is possible via the information email sent to you on Saturday the 4th of November.
