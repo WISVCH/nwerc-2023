@@ -4,7 +4,7 @@ weight: 4
 type: page
 menu: main
 ---
-The following teams are competing in NWERC 2022. The numbers in parentheses represent the location of the team's workstation.
+The following teams are competing in NWERC 2023. The numbers in parentheses represent the location of the team's workstation.
 
 |            |                                                                                                                                                              |
 |:----------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
