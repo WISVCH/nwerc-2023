@@ -1,84 +1,86 @@
 ---
 title: "Teams"
 weight: 4
-draft: true
 type: page
-#menu: main
+menu: main
 ---
 The following teams are competing in NWERC 2022. The numbers in parentheses represent the location of the team's workstation.
 
 |            |                                                                                                                                                              |
 |:----------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![U-4786]  | <ul><li>NP-easy (100)</li><li>Segmenttikuu (37)</li></ul>                                                                                                    |
-|   ![U-7]   | <ul><li>Dijkstra's Dynamite (54)</li><li>Code NoWERC (110)</li></ul>                                                                                         |
-| ![U-7464]  | <ul><li>1966 (42)</li></ul>                                                                                                                                  |
-| ![U-3397]  | <ul><li>LatLaget (27)</li><li>O(no!) (147)</li><li>IT-Böys (84)</li></ul>                                                                                    |
-|  ![U-367]  | <ul><li>Segfault go BRRRR (4)</li><li>ADA Refactor (72)</li><li>Chindia Targoviste (89)</li><li>WA & Chill (137)</li><li>Exponential Fenwick (123)</li></ul> |
-|  ![U-452]  | <ul><li>Piece of cake (35)</li><li>Duck-Team\% (25)</li><li>CoffeeBeans (81)</li><li>RookieMistake (124)</li><li>Runtime Error (148)</li></ul>               |
-|  ![U-573]  | <ul><li>Fully Autonomous Unicycle (8)</li><li>Fully Autonomous Unicorns (93)</li></ul>                                                                       |
-| ![U-3546]  | <ul><li>heap heap hoera (43)</li></ul>                                                                                                                       |
-| ![U-8170]  | <ul><li>Hexaflexagons (57)</li><li>Seems to be O(k!) (5)</li></ul>                                                                                           |
-| ![U-20052] | <ul><li>Kleinsche Flaschen (73)</li><li>HHU Runtime Terror (141)</li></ul>                                                                                   |
-| ![U-14277] | <ul><li>Pie-Oh-Near (26)</li></ul>                                                                                                                           |
-| ![U-7019]  | <ul><li>SExon; (68)</li></ul>                                                                                                                                |
-| ![U-3678]  | <ul><li>IMPostors (14)</li><li>Box Street (55)</li><li>Anonymous Sigmaz (97)</li></ul>                                                                       |
-| ![U-6864]  | <ul><li>We’re just here for the balloons (66)</li><li>~ Python Pirates (88)</li><li>Ctrl Alt Elite (149)</li></ul>                                           |
-| ![U-18106] | <ul><li>Jacobs Rules (53)</li><li>chill club (83)</li><li>skibidi wa4 pa (102)</li><li>Looking for a job (122)</li><li>NeSheZa (145)</li></ul>               |
-| ![U-2272]  | <ul><li>Tzatzikitartare (1)</li><li>Kindergarten Timelimit (65)</li><li>Exploding KITtens (98)</li></ul>                                                     |
-|  ![U-980]  | <ul><li>KTU#1 (50)</li><li>KTU#2 (104)</li></ul>                                                                                                             |
-| ![U-3758]  | <ul><li>Lille Skutt (106)</li></ul>                                                                                                                          |
-| ![U-1039]  | <ul><li>CyanForces\-\-? (75)</li></ul>                                                                                                                       |
-| ![U-1088]  | <ul><li>Plopkoek (52)</li><li>Contra Spem Spero (96)</li><li>0b10101 (136)</li></ul>                                                                         |
-| ![U-1097]  | <ul><li>Dal Dal Doma (58)</li><li>Gecko Kickers (108)</li></ul>                                                                                              |
-| ![U-1112]  | <ul><li>ezcp (23)</li><li>Noobs@LTH (142)</li><li>ECON 101 (95)</li></ul>                                                                                    |
-| ![U-1362]  | <ul><li>proggecribben (33)</li><li>icpC++ (113)</li></ul>                                                                                                    |
-| ![U-8002]  | <ul><li>Reckless Raccoons (21)</li><li>Bidoof Aron Piplup Cyndaquil (13)</li><li>Reduce all the things (114)</li></ul>                                       |
-| ![U-3403]  | <ul><li>Hakk og Spaghetti (64)</li></ul>                                                                                                                     |
-| ![U-1534]  | <ul><li>Balloon Addicts, Passionate Coders (29)</li><li>Rodina (111)</li><li>The Pool Party (140)</li><li>3Guys1Segfault (91)</li></ul>                      |
-| ![U-3787]  | <ul><li>Ich hab studiert (18)</li><li>Leberkäs (115)</li></ul>                                                                                               |
-| ![U-2267]  | <ul><li>⊛˯⛒ (61)</li><li>Reihe 12 <(òvó)> (12)</li><li>ƟvƟ (126)</li></ul>                                                                                   |
-| ![U-11054] | <ul><li>fft enthusiasts (62)</li><li>Segfault: SyntaxError (116)</li></ul>                                                                                   |
-| ![U-4278]  | <ul><li>The floor is made of Java (46)</li><li>Lord of the Graphs (118)</li></ul>                                                                            |
-| ![U-1917]  | <ul><li>Expecto PatroTUM (87)</li><li>Eeylops Owl EmporiTUM (32)</li><li>Avada TUMavra (138)</li><li>LonglongbotTUM (78)</li></ul>                           |
-| ![U-2061]  | <ul><li>Three Lost Physicists (74)</li></ul>                                                                                                                 |
-| ![U-2274]  | <ul><li>Never :q! (22)</li></ul>                                                                                                                             |
-| ![U-2275]  | <ul><li>painfULMess (44)</li></ul>                                                                                                                           |
-| ![U-1154]  | <ul><li>fast faster java (36)</li></ul>                                                                                                                      |
-| ![U-9858]  | <ul><li>Runtime Terror (48)</li><li>ln(0) = 0 (117)</li></ul>                                                                                                |
-| ![U-8311]  | <ul><li>CPUMONS (39)</li></ul>                                                                                                                               |
-| ![U-2284]  | <ul><li>🇺🇳🇮🇨🇴🇩🇪 (31)</li><li>mc (94)</li><li>sop (103)</li><li>Vetter et al. (146)</li><li>Ja, Maar to the Max (128)</li></ul>                        |
-| ![U-18633] | <ul><li>UNInstAll (69)</li></ul>                                                                                                                             |
-| ![U-5541]  | <ul><li>Dori-NWERC (34)</li><li>Fili-NWERC (119)</li></ul>                                                                                                   |
-| ![U-2320]  | <ul><li>\u1f0c\u03bb\u03b3\u03bf\u03c2 (16)</li><li>Miniputters (121)</li></ul>                                                                              |
-| ![U-8317]  | <ul><li>4th party cookies (76)</li></ul>                                                                                                                     |
-| ![U-2343]  | <ul><li>WHATEVER >~< (143)</li><li>Drzewiec (85)</li><li>Trinity's Trinity (3)</li><li>Holland King (47)</li><li>anonymous squids (112)</li></ul>            |
-| ![U-2357]  | <ul><li>The Balloon Animals (2)</li><li>Grape (82)</li><li>scream&cout (139)</li></ul>                                                                       |
-| ![U-5784]  | <ul><li>p(r)ogg(ram)ers (59)</li><li>one more try (9)</li></ul>                                                                                              |
-| ![U-6940]  | <ul><li>Team 47 once again (80)</li></ul>                                                                                                                    |
-| ![U-7264]  | <ul><li>GAU1 (49)</li><li>GAU2 (127)</li></ul>                                                                                                               |
-| ![U-3330]  | <ul><li>Keksi Fan Club (10)</li></ul>                                                                                                                        |
-| ![U-7887]  | <ul><li>f slanga strik (41)</li></ul>                                                                                                                        |
-| ![U-13859] | <ul><li>NoobCoders (99)</li><li>Black Box (134)</li><li>your local bruh moment dealers (56)</li></ul>                                                        |
-| ![U-5737]  | <ul><li>robuman (20)</li><li>Team DSD (63)</li></ul>                                                                                                         |
-| ![U-3749]  | <ul><li>Algocrats (24)</li><li>Algorats (67)</li></ul>                                                                                                       |
-| ![U-2467]  | <ul><li>0x000000 0xF4A7BB (131)</li><li>The Ash Lads (70)</li></ul>                                                                                          |
-| ![U-3620]  | <ul><li>2Palinca1Rakija (6)</li><li>Placeholder team name (51)</li><li>lamelame (130)</li></ul>                                                              |
-| ![U-8102]  | <ul><li>UPgreat (40)</li></ul>                                                                                                                               |
-| ![U-6859]  | <ul><li>The House Crew (38)</li><li>Mariens (132)</li></ul>                                                                                                  |
-| ![U-2526]  | <ul><li>KalaPüügiSeadus (107)</li><li>Bubblegum Bitset (19)</li></ul>                                                                                        |
-| ![U-6929]  | <ul><li>Team W (28)</li><li>The Error Addicts (71)</li></ul>                                                                                                 |
-| ![U-2625]  | <ul><li>IT giet oan (17)</li><li>Crystal Math 3.0 (86)</li><li>Kerrie vlek (109)</li><li>Team biem (144)</li></ul>                                           |
-| ![U-7477]  | <ul><li>peepoPoo (79)</li><li>Happy Team (133)</li><li>SAD Team (92)</li></ul>                                                                               |
-| ![U-2643]  | <ul><li>#define true rand (7)</li><li>Hope It Passes (125)</li></ul>                                                                                         |
-| ![U-2664]  | <ul><li>PPAP (77)</li><li>Monki IQ 200 (combined) (101)</li><li>std::string name = getTeamName(); (11)</li></ul>                                             |
+| ![U-4786] | <ul><li>CS-E4595-TAs (20)</li><li>Good not-so-old days (93)</li></ul> |
+| ![U-7] | <ul><li>Brown Bananas (41)</li><li>Kotlin Supporters (110)</li><li>KoblingsKaos (144)</li></ul> |
+| ![U-21966] | <ul><li>ARU (68)</li></ul> |
+| ![U-7464] | <ul><li>Indents are hard (64)</li></ul> |
+| ![U-3397] | <ul><li>yescpc (28)</li><li>🥶 (97)</li><li>Big W notation (140)</li></ul> |
+| ![U-21967] | <ul><li>Team dedebuilding (6)</li><li>bim bim bam bam (66)</li><li>destructor college (113)</li></ul> |
+| ![U-367] | <ul><li>Segfault go BRRRR (5)</li><li>Coding in the Rain (65)</li><li>W. (112)</li><li>KapCie (146)</li></ul> |
+| ![U-452] | <ul><li>πece of 🍰 (13)</li><li>FC Puddlebee (73)</li><li>E.S.H.A. Trojan (121)</li></ul> |
+| ![U-6557] | <ul><li>Debug Wizards (104)</li><li>Maverick (130)</li><li>Quantum Coders (57)</li></ul> |
+| ![U-573] | <ul><li>100% FAUlt Tolerance (27)</li><li>Vincent FAUn Gogh (83)</li><li>FAUlty Algorithmic Unicorns (126)</li></ul> |
+| ![U-8170] | <ul><li>Seems to be O(k!) (14)</li><li>Hexaflexagons (74)</li><li>Burnoutverbot (117)</li></ul> |
+| ![U-20052] | <ul><li>PaidForWinRAR (49)</li></ul> |
+| ![U-7019] | <ul><li>SExon; (56)</li></ul> |
+| ![U-3678] | <ul><li>IMPostors (12)</li><li>Imperial123 (94)</li><li>There's Nothing We Can Do (137)</li></ul> |
+| ![U-6864] | <ul><li>Ctrl Alt Elite (58)</li><li>Gavtyvene fra Gribskov (123)</li><li>Who is Baldur and why does he have a gate? (148)</li></ul> |
+| ![U-4711] | <ul><li>DROP TABLE; (53)</li><li>PrintDebugger (100)</li></ul> |
+| ![U-2272] | <ul><li>Kindergarten Timelimit (2)</li><li>Infinite Loopers (62)</li><li>cracK IT (109)</li></ul> |
+| ![U-980] | <ul><li>KTU#1 (33)</li><li>KTU#2 (101)</li></ul> |
+| ![U-3758] | <ul><li>Lille Skutt (72)</li></ul> |
+| ![U-1039] | <ul><li>dagy boysen (46)</li><li>Vikings of Code (114)</li><li>Py=3.14 (147)</li></ul> |
+| ![U-11103] | <ul><li>#include <verdict/accepted.h> (26)</li></ul> |
+| ![U-1112] | <ul><li>ECON 101 (37)</li><li>Noobs@LTH (106)</li><li>pi-pojkarna (143)</li></ul> |
+| ![U-1362] | <ul><li>Dataguttan (54)</li><li>NPC 2O23 (118)</li></ul> |
+| ![U-8002] | <ul><li>Quackamole (9)</li><li>Nope (69)</li><li>Bee and Puppycat (116)</li></ul> |
+| ![U-3403] | <ul><li>Hakk og Spaghetti (50)</li></ul> |
+| ![U-1534] | <ul><li>LLaMA Prophets (48)</li><li>Rodina (99)</li><li>Balloon Addicts Passionate Coders (142)</li></ul> |
+| ![U-3787] | <ul><li>NoCola (23)</li></ul> |
+| ![U-2267] | <ul><li><(OvO)> (10)</li><li><{OvO}> (70)</li><li>{(@)v(@)} (134)</li></ul> |
+| ![U-11054] | <ul><li>miracle sort v1.1 (71)</li><li>one brain (131)</li></ul> |
+| ![U-4278] | <ul><li>Lord of the Graphs (67)</li></ul> |
+| ![U-1917] | <ul><li>Don’t Starve TUMgether (19)</li><li>WingarTUM Leviosa (79)</li><li>++i > i++ (122)</li></ul> |
+| ![U-33] | <ul><li>Clueless Computer Club (32)</li></ul> |
+| ![U-2274] | <ul><li>Never :q! (44)</li><li>Blamage à Trois (96)</li></ul> |
+| ![U-1154] | <ul><li>Marcel Ultras (40)</li><li>Team 823 (92)</li></ul> |
+| ![U-9858] | <ul><li>jsprquecemsgvsarveenbonnesanté (91)</li><li>Binary Church (39)</li></ul> |
+| ![U-8311] | <ul><li>CPUMONS (52)</li><li>La voie 2 3/4 (95)</li></ul> |
+| ![U-2282] | <ul><li>Rain worms (43)</li><li>Plopkoek (138)</li><li>Ctrl-Alt-Succeed (103)</li></ul> |
+| ![U-2284] | <ul><li>🇺🇳🇮🇨🅾️🇩🇪 (31)</li><li>Team Adis (129)</li><li>Team Squeeze Lemma (82)</li></ul> |
+| ![U-2292] | <ul><li>The One Musketeer (21)</li></ul> |
+| ![U-7006] | <ul><li>stonefaceemoji (77)</li></ul> |
+| ![U-5541] | <ul><li>Bath J (38)</li><li>Bath C (107)</li></ul> |
+| ![U-2320] | <ul><li>Florida Men (3)</li><li>HashMap It Out (76)</li></ul> |
+| ![U-8317] | <ul><li>Vim++ (98)</li><li>ForcesCode (29)</li></ul> |
+| ![U-2343] | <ul><li>Trinity's Trinity (8)</li><li>treenity (89)</li><li>Drzewiec (132)</li></ul> |
+| ![U-2357] | <ul><li>string & a long (11)</li><li>Øhmmm? (84)</li><li>Bit Flippers (136)</li></ul> |
+| ![U-5784] | <ul><li>Icy Peacy (17)</li></ul> |
+| ![U-6940] | <ul><li>Team47 (81)</li></ul> |
+| ![U-7264] | <ul><li>GAUEINS (87)</li><li>Individual Code Patterns (36)</li></ul> |
+| ![U-3330] | <ul><li>Keksi Fan Club (24)</li></ul> |
+| ![U-7887] | <ul><li>No comment, read problem statement (63)</li><li>Slöngurnar (127)</li></ul> |
+| ![U-6817] | <ul><li>Still Pending... (59)</li></ul> |
+| ![U-13859] | <ul><li>Kamicoders (35)</li><li>TEAmPOT (133)</li><li>.APK (86)</li></ul> |
+| ![U-5737] | <ul><li>Duduienii (115)</li><li>Beef Chew Mein (47)</li><li>SYS (145)</li></ul> |
+| ![U-3749] | <ul><li>Sigmundation Freud (25)</li></ul> |
+| ![U-3620] | <ul><li>NewJeans (4)</li><li>MovingUp (85)</li><li>Alaska with blue (128)</li><li>ShameShame (149)</li></ul> |
+| ![U-6859] | <ul><li> Codedem Innit (51)</li><li>Algorizzlers (119)</li></ul> |
+| ![U-7918] | <ul><li>Waltz (42)</li><li>North Haugh Nitros (111)</li></ul> |
+| ![U-2523] | <ul><li>Monty C+++ (55)</li><li>C Gulls (124)</li></ul> |
+| ![U-2526] | <ul><li>Bubblegum Bitset (16)</li><li>The young, the older and the ancient (88)</li><li>CKG65537 (139)</li></ul> |
+| ![U-2561] | <ul><li>Iceberg (22)</li></ul> |
+| ![U-6929] | <ul><li>👊🛫 (34)</li><li>It works on my machine (102)</li><li>Debug Dominators (141)</li></ul> |
+| ![U-2625] | <ul><li>Ctrl Alt Defeat (18)</li><li>Team Biem (78)</li><li>Qu... I forgor (125)</li></ul> |
+| ![U-2643] | <ul><li>#define true rand (7)</li><li>Hope It Passes (80)</li></ul> |
+| ![U-2664] | <ul><li>λ placeholder (1)</li><li>LNX (61)</li><li>The other team from VU (108)</li></ul> |
 
 [U-7]: /logo/U-7.png "Aarhus University"
+[U-33]: /logo/U-33.png "Ulm University"
 [U-367]: /logo/U-367.png "Delft University of Technology"
 [U-452]: /logo/U-452.png "Eindhoven University of Technology"
 [U-573]: /logo/U-573.png "Friedrich-Alexander-University Erlangen-Nuremberg"
 [U-980]: /logo/U-980.png "Kaunas University of Technology"
 [U-1039]: /logo/U-1039.png "KTH - Royal Institute of Technology"
-[U-1088]: /logo/U-1088.png "Leiden University"
+[U-2282]: /logo/U-2282.png "Leiden University"
 [U-1097]: /logo/U-1097.png "Linköping University"
 [U-1112]: /logo/U-1112.png "Lund University"
 [U-1154]: /logo/U-1154.png "Universität zu Lübeck"
@@ -91,11 +93,14 @@ The following teams are competing in NWERC 2022. The numbers in parentheses repr
 [U-2274]: /logo/U-2274.png "Universität Rostock"
 [U-2275]: /logo/U-2275.png "Universität Ulm"
 [U-2284]: /logo/U-2284.png "Universiteit van Amsterdam"
+[U-2292]: /logo/U-2292.png "University College Cork"
 [U-2320]: /logo/U-2320.png "University of Bergen"
 [U-2343]: /logo/U-2343.png "University of Cambridge"
 [U-2357]: /logo/U-2357.png "University of Copenhagen"
 [U-2467]: /logo/U-2467.png "University of Oslo"
+[U-2523]: /logo/U-2523.png "University of Sussex"
 [U-2526]: /logo/U-2526.png "University of Tartu"
+[U-2561]: /logo/U-2561.png "University of Twente"
 [U-2625]: /logo/U-2625.png "Utrecht University"
 [U-2643]: /logo/U-2643.png "Vilnius University"
 [U-2664]: /logo/U-2664.png "Vrije Universiteit"
@@ -110,18 +115,23 @@ The following teams are competing in NWERC 2022. The numbers in parentheses repr
 [U-3787]: /logo/U-3787.png "RWTH Aachen University"
 [U-4278]: /logo/U-4278.png "Technical University of Denmark"
 [U-4786]: /logo/U-4786.png "Aalto University"
+[U-4711]: /logo/U-4711.png "Johannes Gutenberg Universität Mainz"
 [U-5541]: /logo/U-5541.png "University of Bath"
 [U-5737]: /logo/U-5737.png "University of Manchester"
 [U-5784]: /logo/U-5784.png "University of Edinburgh"
+[U-6557]: /logo/U-6557.png "Frankfurt University of Applied Sciences"
+[U-6817]: /logo/U-6817.png "University of Liverpool"
 [U-6859]: /logo/U-6859.png "University of Southampton"
 [U-6864]: /logo/U-6864.png "IT University of Copenhagen"
 [U-6929]: /logo/U-6929.png "University of Warwick"
 [U-6940]: /logo/U-6940.png "University of Glasgow"
+[U-7006]: /logo/U-7006.png "University College London "
 [U-7019]: /logo/U-7019.png "Hogeschool Leiden"
 [U-7264]: /logo/U-7264.png "University of Göttingen"
 [U-7464]: /logo/U-7464.png "Brunel University London"
 [U-7477]: /logo/U-7477.png "Vilnius Gediminas Technical University"
 [U-7887]: /logo/U-7887.png "University of Iceland"
+[U-7918]: /logo/U-7918.png "University of St Andrews"
 [U-8002]: /logo/U-8002.png "Radboud University"
 [U-8102]: /logo/U-8102.png "University of Passau"
 [U-8170]: /logo/U-8170.png "Hasso Plattner Institute"
@@ -129,8 +139,11 @@ The following teams are competing in NWERC 2022. The numbers in parentheses repr
 [U-8317]: /logo/U-8317.png "University of Bristol"
 [U-9858]: /logo/U-9858.png "Université Catholique de Louvain"
 [U-11054]: /logo/U-11054.png "Tallinn University of Technology"
+[U-11103]: /logo/U-11103.png "Katholike Universiteit Leuven"
 [U-13859]: /logo/U-13859.png "University of Luxembourg"
 [U-14277]: /logo/U-14277.png "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt"
 [U-18106]: /logo/U-18106.png "Jacobs University in Bremen"
 [U-18633]: /logo/U-18633.png "University of Augsburg"
 [U-20052]: /logo/U-20052.png "Heinrich-Heine-Universität Düsseldorf"
+[U-21966]: /logo/U-21966.png "Anglia Ruskin University"
+[U-21967]: /logo/U-21967.png "Constructor University Bremen"

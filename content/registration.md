@@ -2,9 +2,10 @@
 title: "Registration"
 weight: 4
 draft: false
-menu: main
 type: page
 ---
+**Update: Registration is now closed.**
+
 Registration will open at the 28th of June and will close on **Friday the 3rd of November**. Registration will be done through
 the [ICPC system](https://icpc.global/regionals/finder/Northwestern-Europe-2024).
 Teams can be promoted from the subregionals.
