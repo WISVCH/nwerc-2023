@@ -85,7 +85,7 @@ The following languages are allowed during the contest:
 - Java
     - Version: 17.0.6
 - Kotlin
-    - Version: 1.6.0
+    - Version: 1.7.21
 
 Note that Python 2 is no longer supported.
 
