@@ -7,6 +7,7 @@ duration: 4h
 width: 1
 location: Aula - Ground Floor
 people: all
+weight: 3
 ---
 
 ## Location

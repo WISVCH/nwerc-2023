@@ -4,7 +4,7 @@ type: event
 day: saturday
 start: 8:30
 duration: 1h0m
-width: 2
+width: 3
 location: Aula
 people: all
 ---
