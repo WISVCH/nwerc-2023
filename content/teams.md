@@ -19,7 +19,7 @@ The following teams are competing in NWERC 2023. The numbers in parentheses repr
 | ![U-6557] | Frankfurt University of Applied Sciences &mdash; DEU<ul><li>Debug Wizards (104)</li><li>Maverick (130)</li><li>Quantum Coders (57)</li></ul>                                      |
 | ![U-573] | Friedrich-Alexander-University Erlangen-Nuremberg &mdash; DEU<ul><li>100% FAUlt Tolerance (27)</li><li>Vincent FAUn Gogh (83)</li><li>FAUlty Algorithmic Unicorns (126)</li></ul> |
 | ![U-8170] | Hasso Plattner Institute &mdash; DEU<ul><li>Seems to be O(k!) (14)</li><li>Hexaflexagons (74)</li><li>Burnoutverbot (117)</li></ul>                                               |
-| ![U-20052] | Heinrich-Heine-Universität Düsseldorf &mdash; DEU<ul><li>PaidForWinRAR (49)</li></ul>                                                                                             |
+| ![U-20052] | Heinrich-Heine-Universität Düsseldorf &mdash; DEU<ul><li>PaidForWinRAR (49)</li><li>BugBusters (150)</li></ul>                                                                    |
 | ![U-7019] | Hogeschool Leiden &mdash; NLD<ul><li>SExon; (56)</li></ul>                                                                                                                        |
 | ![U-3678] | Imperial College London &mdash; GBR<ul><li>IMPostors (12)</li><li>Imperial123 (94)</li><li>There's Nothing We Can Do (137)</li></ul>                                              |
 | ![U-6864] | IT University of Copenhagen &mdash; DNK<ul><li>Ctrl Alt Elite (58)</li><li>Gavtyvene fra Gribskov (123)</li><li>Who is Baldur and why does he have a gate? (148)</li></ul>        |
