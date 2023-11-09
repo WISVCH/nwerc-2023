@@ -41,3 +41,5 @@ Teams are allowed to bring one keyboard to replace the keyboard provided by the 
 macro keys are not allowed. Wireless keyboards are also not allowed. A mouse will be provided and may not be replaced by the team. 
 
 Keyboard and Team Reference Documents should be handed in at the registration.
+Mascots and other items (see above) can be brought to the team's table during the test session.
+These items should be left on the table after the test session and will be checked before the contest on Sunday.
