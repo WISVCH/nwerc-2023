@@ -1,6 +1,7 @@
 ---
 title: Announcing the NWERC 2023 date
 tags: ['nwerc 2023']
+date: 2023-07-05T00:00:00+02:00
 ---
 We are happy to announce that the 2023 edition of the Northwestern Europe Regional Contest (NWERC) will be held from the
 24th until the 26th of November. The contest will be hosted this year again by the Delft University of Technology. We are
