@@ -40,4 +40,4 @@ team needs at the contest, please contact the Head of Jury.
 Teams are allowed to bring one keyboard to replace the keyboard provided by the notebook. Note that keyboards with pre-programmed
 macro keys are not allowed. Wireless keyboards are also not allowed. A mouse will be provided and may not be replaced by the team. 
 
-Keyboard, mouse, and Team Reference Documents should be handed in at the registration.
+Keyboard and Team Reference Documents should be handed in at the registration.
