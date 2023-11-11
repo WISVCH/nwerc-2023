@@ -28,7 +28,7 @@ The following teams are competing in NWERC 2023. The numbers in parentheses repr
 | ![U-3758]  | King's College London &mdash; GBR<ul><li>Lille Skutt (72)</li></ul>                                                                                                               |
 | ![U-1039]  | KTH - Royal Institute of Technology &mdash; SWE<ul><li>dagy boysen (46)</li><li>Vikings of Code (114)</li><li>Py=3.14 (147)</li></ul>                                             |
 | ![U-11103] | KU Leuven &mdash; BEL<ul><li>#include <verdict/accepted.h> (26)</li></ul>                                                                                                         |
-| ![U-1097]  | Linköping University &mdash; SWE<ul><li>LiTHE Accepted(53)</li></ul>                                                                                                              |
+| ![U-1097]  | Linköping University &mdash; SWE<ul><li>LiTHE Accepted (53)</li></ul>                                                                                                             |
 | ![U-1112]  | Lund University &mdash; SWE<ul><li>ECON 101 (37)</li><li>Noobs@LTH (106)</li><li>pi-pojkarna (143)</li></ul>                                                                      |
 | ![U-1362]  | Norwegian University of Science and Technology &mdash; NOR<ul><li>Dataguttan (54)</li><li>NPC 2O23 (118)</li></ul>                                                                |
 | ![U-8002]  | Radboud University &mdash; NLD<ul><li>Quackamole (9)</li><li>Nope (69)</li><li>Bee and Puppycat (116)</li></ul>                                                                   |
