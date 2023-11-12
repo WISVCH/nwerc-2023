@@ -16,7 +16,7 @@ The following teams are competing in NWERC 2023. The numbers in parentheses repr
 | ![U-21967] | Constructor University Bremen &mdash; DEU<ul><li>Team dedebuilding (6)</li><li>bim bim bam bam (66)</li><li>destructor college (113)</li></ul>                                    |
 |  ![U-367]  | Delft University of Technology &mdash; NLD<ul><li>Segfault go BRRRR (5)</li><li>Coding in the Rain (65)</li><li>W. (112)</li><li>KapCie (146)</li></ul>                           |
 |  ![U-452]  | Eindhoven University of Technology &mdash; NLD<ul><li>πece of 🍰 (13)</li><li>FC Puddlebee (73)</li><li>E.S.H.A. Trojan (121)</li></ul>                                           |
-| ![U-6557]  | Frankfurt University of Applied Sciences &mdash; DEU<ul><li>Debug Wizards (104)</li><li>Maverick (130)</li><li>Quantum Coders (57)</li></ul>                                      |
+| ![U-6557]  | Frankfurt University of Applied Sciences &mdash; DEU<ul><li>Debug Wizards (104)</li><li>Synchronicity (130)</li><li>Quantum Coders (57)</li></ul>                                 |
 |  ![U-573]  | Friedrich-Alexander-University Erlangen-Nuremberg &mdash; DEU<ul><li>100% FAUlt Tolerance (27)</li><li>Vincent FAUn Gogh (83)</li><li>FAUlty Algorithmic Unicorns (126)</li></ul> |
 | ![U-8170]  | Hasso Plattner Institute &mdash; DEU<ul><li>Seems to be O(k!) (14)</li><li>Hexaflexagons (74)</li><li>Burnoutverbot (117)</li></ul>                                               |
 | ![U-20052] | Heinrich-Heine-Universität Düsseldorf &mdash; DEU<ul><li>PaidForWinRAR (49)</li><li>BugBusters (150)</li></ul>                                                                    |
@@ -28,11 +28,11 @@ The following teams are competing in NWERC 2023. The numbers in parentheses repr
 | ![U-3758]  | King's College London &mdash; GBR<ul><li>Lille Skutt (72)</li></ul>                                                                                                               |
 | ![U-1039]  | KTH - Royal Institute of Technology &mdash; SWE<ul><li>dagy boysen (46)</li><li>Vikings of Code (114)</li><li>Py=3.14 (147)</li></ul>                                             |
 | ![U-11103] | KU Leuven &mdash; BEL<ul><li>#include <verdict/accepted.h> (26)</li></ul>                                                                                                         |
-| ![U-1097]  | Linköping University &mdash; SWE<ul><li>LiTHE Accepted (53)</li></ul>                                                                                                             |
+| ![U-1097]  | Linköping University &mdash; SWE<ul><li>LiTHe Accepted (53)</li></ul>                                                                                                             |
 | ![U-1112]  | Lund University &mdash; SWE<ul><li>ECON 101 (37)</li><li>Noobs@LTH (106)</li><li>pi-pojkarna (143)</li></ul>                                                                      |
-| ![U-1362]  | Norwegian University of Science and Technology &mdash; NOR<ul><li>Dataguttan (54)</li><li>NPC 2O23 (118)</li></ul>                                                                |
+| ![U-1362]  | Norwegian University of Science and Technology &mdash; NOR<ul><li>NPC 2O23 (118)</li></ul>                                                                                        |
 | ![U-8002]  | Radboud University &mdash; NLD<ul><li>Quackamole (9)</li><li>Nope (69)</li><li>Bee and Puppycat (116)</li></ul>                                                                   |
-| ![U-3403]  | Reykjavik University  &mdash; ISL<ul><li>Hakk og Spaghetti (50)</li></ul>                                                                                                         |
+| ![U-3403]  | Reykjavik University &mdash; ISL<ul><li>Hakk og Spaghetti (50)</li></ul>                                                                                                          |
 | ![U-1534]  | Rijksuniversiteit Groningen &mdash; NLD<ul><li>LLaMA Prophets (48)</li><li>Rodina (99)</li><li>Balloon Addicts Passionate Coders (142)</li></ul>                                  |
 | ![U-3787]  | RWTH Aachen University &mdash; DEU<ul><li>NoCola (23)</li></ul>                                                                                                                   |
 | ![U-2267]  | Saarland University &mdash; DEU<ul><li><(OvO)> (10)</li><li><{OvO}> (70)</li><li>{(@)v(@)} (134)</li></ul>                                                                        |
@@ -63,14 +63,14 @@ The following teams are competing in NWERC 2023. The numbers in parentheses repr
 | ![U-5737]  | University of Manchester &mdash; GBR<ul><li>Duduienii (115)</li><li>Beef Chew Mein (47)</li><li>SYS (145)</li></ul>                                                               |
 | ![U-3749]  | University of Nottingham &mdash; GBR<ul><li>Sigmundation Freud (25)</li></ul>                                                                                                     |
 | ![U-3620]  | University of Oxford &mdash; GBR<ul><li>NewJeans (4)</li><li>MovingUp (85)</li><li>Alaska with blue (128)</li><li>ShameShame (149)</li></ul>                                      |
-| ![U-6859]  | University of Southampton &mdash; GBR<ul><li> Codedem Innit (51)</li><li>Algorizzlers (119)</li></ul>                                                                             |
+| ![U-6859]  | University of Southampton &mdash; GBR<ul><li>Codedem Innit (51)</li><li>Algorizzlers (119)</li></ul>                                                                              |
 | ![U-7918]  | University of St Andrews &mdash; GBR<ul><li>Waltz (42)</li><li>North Haugh Nitros (111)</li></ul>                                                                                 |
 | ![U-2523]  | University of Sussex &mdash; GBR<ul><li>Monty C+++ (55)</li><li>C Gulls (124)</li></ul>                                                                                           |
 | ![U-2526]  | University of Tartu &mdash; EST<ul><li>Bubblegum Bitset (16)</li><li>The young, the older and the ancient (88)</li><li>CKG65537 (139)</li></ul>                                   |
 | ![U-2561]  | University of Twente &mdash; NLD<ul><li>Iceberg (22)</li></ul>                                                                                                                    |
 | ![U-6929]  | University of Warwick &mdash; GBR<ul><li>👊🛫 (34)</li><li>It works on my machine (102)</li><li>Debug Dominators (141)</li></ul>                                                  |
 | ![U-2625]  | Utrecht University &mdash; NLD<ul><li>Ctrl Alt Defeat (18)</li><li>Team Biem (78)</li><li>Qu... I forgor (125)</li></ul>                                                          |
-| ![U-7477]  | Vilnius Gediminas Technical University  &mdash; LTU<ul><li>DevGurus (120)</li><li>NCNL (135)</li></ul>                                                                            |
+| ![U-7477]  | Vilnius Gediminas Technical University &mdash; LTU<ul><li>DevGurus (120)</li><li>NCNL (135)</li></ul>                                                                             |
 | ![U-2643]  | Vilnius University &mdash; LTU<ul><li>#define true rand (7)</li><li>Hope It Passes (80)</li></ul>                                                                                 |
 | ![U-2664]  | Vrije Universiteit &mdash; NLD<ul><li>λ placeholder (1)</li><li>LNX (61)</li><li>The other team from VU (108)</li></ul>                                                           |
 
