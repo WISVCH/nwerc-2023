@@ -42,15 +42,16 @@ We provide an overview of suggestions for other activities [on this map](https:/
 
  - List of other activites (details [on this map](https://wisv.ch/map)):
 
-   - TU Delft Hortus Botanicus
-   - Film House Lumen
-   - Handicraft Museum Mensert
-   - Museum Prinsenhof Delft
-   - Vermeer Museum Delft
-   - Snooker. pool and darts cafe Peperstraat
-   - Rotterdam - Self-guided walking tour
-   - The Hague - Self-guided walking tour
-   - Delft - Self-guided walking tour
+   - [TU Delft Hortus Botanicus](https://maps.app.goo.gl/ww5hBAZdbBbtsTx1A)
+   - [Film House Lumen](https://maps.app.goo.gl/LQAk2A5bHA9TmqvKA)
+   - [Handicraft Museum Mensert](https://maps.app.goo.gl/hWhi582puS8a5jbPA)
+   - [Museum Prinsenhof Delft](https://maps.app.goo.gl/UqdMJwhu3m2LGUZi8)
+   - [Vermeer Museum Delft](https://maps.app.goo.gl/bPupQDNjTC5ipLqZ7)
+   - [Snooker, pool and darts cafe Peperstraat](https://maps.app.goo.gl/vqxu3WX9tRCVp3DK8)
+   - [Rotterdam - Self-guided walking tour](https://www.gpsmycity.com/tours/rotterdam-introduction-walking-tour-1129.html)
+   - [The Hague - Self-guided walking tour](https://denhaag.com/en/walking/winter-stroll)
+   - [Delft - Self-guided walking tour](https://www.delft.com/routes)
+   - [Delft - Go hunting for geocaches!](https://www.geocaching.com/play/mobile)
 
 
 
