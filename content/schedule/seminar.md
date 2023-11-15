@@ -2,8 +2,8 @@
 title: "Coach Seminar"
 type: event
 day: sunday
-start: 10:00
-duration: 1h0m
+start: 10:15
+duration: 45m
 width: 2
 location: Aula - Auditorium
 people: coaches
@@ -13,7 +13,8 @@ European Championships and the growth of the NWERC in the future. These points c
 subregional and general coach meeting.
 
 ## Location
-The coach seminar take place in the Auditorium of the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
+The coach seminar takes place in the Auditorium of the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
 The entrance of the Auditorium is on the top floor, and indicated on the signs.
+Please use the elevator to reach the auditorium from the ground floor.
 
 For directions, see the [Location page]({{< relref "location" >}} "Location").

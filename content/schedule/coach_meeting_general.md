@@ -11,3 +11,4 @@ people: coaches
 
 The general coach meeting takes place in the Auditorium of the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
 The entrance of the Auditorium is on the top floor, and indicated on the signs.
+Please use the elevator to reach the auditorium from the ground floor.
