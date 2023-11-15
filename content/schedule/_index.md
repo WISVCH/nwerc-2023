@@ -6,8 +6,6 @@ draft: false
 menu: main
 weight: 3
 ---
-The schedule is preliminary and subject to minor changes.
-
 ## Friday - November 24, 2023
 {{< timetable day="friday" from="14" to="21" >}}
 

@@ -4,8 +4,6 @@ weight: 5
 menu: main
 type: page
 ---
-*These rules are preliminary, and can be subject to change*
-
 **Update 2 November**: It is no longer allowed to replace the provided mouse. You are not allowed to wear a watch during the contest.
 
 The ICPC regional contest rules can be found at the ICPC regionals website; [official ICPC regional rules](https://icpc.global/regionals/rules).
