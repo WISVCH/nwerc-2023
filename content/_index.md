@@ -11,3 +11,40 @@ The Northwestern Europe Regional Contest (NWERC) is a contest in which teams fro
 
 The 2023 edition of the Northwestern Europe Regional Contest (NWERC) will be held from the 24th until the 26th of November 2023.
 The contest will be held on the campus of the Delft University of Technology.
+
+{{% row %}}
+{{% column %}}
+
+## Contest material
+
+<!--
+- [Photos](https://2023.nwerc.eu/photos)
+- [Programme Booklet (pdf)](/programme-booklet.pdf)
+- [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))
+- [Problem Set (pdf)](/main/problem-set.pdf)
+- [Problem Slides (pdf)](/main/problem-slides.pdf)
+- [Solution Slides (pdf)](/main/solutions.pdf)
+- [Packaged Problems (.zip, ???MB)](https://chipcie.wisv.ch/archive/2023/nwerc/solutions.zip)
+-->
+- [Live Scoreboard](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
+- [Contest Livestream](https://www.youtube.com/watch?v=yMB6CJ5bzB4)
+- [Award Ceremony Livestream](https://www.youtube.com/watch?v=yhuA_OUiP08)
+
+{{% /column %}}
+{{% column %}}
+
+## Test session material
+
+<!--
+- [Final Standings](/test-session/scoreboard)
+- [Problem Set (pdf)](/test-session/problem-set.pdf)
+- [Problem Slides (pdf)](/test-session/problem-slides.pdf)
+- [Solution Slides (pdf)](/test-session/solutions.pdf)
+- [Packaged Problems (.zip, ???MB)](/test-session/solutions.zip)
+-->
+- [Live Scoreboard](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
+- [Opening Ceremony Livestream](https://www.youtube.com/watch?v=aD9Fjt184Qk)
+- [Test Session and Team Interviews Livestream](https://www.youtube.com/watch?v=R3sCo44NrCE)
+
+{{% /column %}}
+{{% /row %}}
