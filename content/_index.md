@@ -17,20 +17,16 @@ The contest will be held on the campus of the Delft University of Technology.
 
 ## Contest material
 
-[//]: # (- [Photos]&#40;https://2022.nwerc.eu/photos&#41;)
-
-[//]: # (- [Programme Booklet &#40;pdf&#41;]&#40;/programme-booklet.pdf&#41;)
-
-[//]: # (- [Final Standings]&#40;/main/scoreboard&#41; &#40;[Spectators]&#40;/main/scoreboard/spectators.html&#41;&#41;)
-
-[//]: # (- [Problem Set &#40;pdf&#41;]&#40;/main/problem-set.pdf&#41;)
-
-[//]: # (- [Problem Slides &#40;pdf&#41;]&#40;/main/problem-slides.pdf&#41;)
-
-[//]: # (- [Solution Slides &#40;pdf&#41;]&#40;/main/solutions.pdf&#41;)
-
-[//]: # (- [Packaged Problems &#40;.zip, 464MB&#41;]&#40;https://chipcie.wisv.ch/archive/2022/nwerc/solutions.zip&#41;)
-- [Scoreboard](https://scoreboard.nwerc.eu)
+<!--
+- [Photos](https://2023.nwerc.eu/photos)
+- [Programme Booklet (pdf)](/programme-booklet.pdf)
+- [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))
+- [Problem Set (pdf)](/main/problem-set.pdf)
+- [Problem Slides (pdf)](/main/problem-slides.pdf)
+- [Solution Slides (pdf)](/main/solutions.pdf)
+- [Packaged Problems (.zip, ???MB)](https://chipcie.wisv.ch/archive/2023/nwerc/solutions.zip)
+-->
+- [Live Scoreboard](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
 - [Contest Livestream](https://www.youtube.com/watch?v=yMB6CJ5bzB4)
 - [Award Ceremony Livestream](https://www.youtube.com/watch?v=yhuA_OUiP08)
 
@@ -39,16 +35,14 @@ The contest will be held on the campus of the Delft University of Technology.
 
 ## Test session material
 
-[//]: # (- [Final Standings]&#40;/test-session/scoreboard&#41;)
-
-[//]: # (- [Problem Set &#40;pdf&#41;]&#40;/test-session/problem-set.pdf&#41;)
-
-[//]: # (- [Problem Slides &#40;pdf&#41;]&#40;/test-session/problem-slides.pdf&#41;)
-
-[//]: # (- [Solution Slides &#40;pdf&#41;]&#40;/test-session/solutions.pdf&#41;)
-
-[//]: # (- [Packaged Problems &#40;.zip, 8.3MB&#41;]&#40;/test-session/solutions.zip&#41;)
-- [Scoreboard](https://scoreboard.nwerc.eu)
+<!--
+- [Final Standings](/test-session/scoreboard)
+- [Problem Set (pdf)](/test-session/problem-set.pdf)
+- [Problem Slides (pdf)](/test-session/problem-slides.pdf)
+- [Solution Slides (pdf)](/test-session/solutions.pdf)
+- [Packaged Problems (.zip, ???MB)](/test-session/solutions.zip)
+-->
+- [Live Scoreboard](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
 - [Opening Ceremony Livestream](https://www.youtube.com/watch?v=aD9Fjt184Qk)
 - [Test Session and Team Interviews Livestream](https://www.youtube.com/watch?v=R3sCo44NrCE)
 
