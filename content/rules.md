@@ -20,7 +20,7 @@ summarized in the [2023-24 ICPC Regionals Eligibility Diagram](https://drive.goo
 
 
 ## Contest Materials
-We follow the World Finals’ Rules, so a team is allowed to bring 3 copies of their Team Reference document, but not allowed
+We follow the World Finals’ Rules, so a team is allowed to bring 3 copies of their Team Reference Document, but not allowed
 to bring any additional reference materials such as books, program listings and notes! You may not bring any electronic device
 or machine-readable media (this includes but is not limited to cell phones, **watches**, digital cameras, and mp3 players). You may bring
 pens or pencils, but not paper (these will be provided). Winter coats, bags, etc. should not be brought to the contest floor.
