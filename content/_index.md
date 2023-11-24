@@ -27,6 +27,7 @@ The contest will be held on the campus of the Delft University of Technology.
 - [Packaged Problems (.zip, ???MB)](https://chipcie.wisv.ch/archive/2023/nwerc/solutions.zip)
 -->
 - [Live Scoreboard](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
+- [Spectator Contest](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
 - [Contest Livestream](https://www.youtube.com/watch?v=yMB6CJ5bzB4)
 - [Award Ceremony Livestream](https://www.youtube.com/watch?v=yhuA_OUiP08)
 
@@ -43,6 +44,7 @@ The contest will be held on the campus of the Delft University of Technology.
 - [Packaged Problems (.zip, ???MB)](/test-session/solutions.zip)
 -->
 - [Live Scoreboard](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
+- [Spectator Contest](https://scoreboard.nwerc.eu)<!-- TODO: remove after Final Standings are available -->
 - [Opening Ceremony Livestream](https://www.youtube.com/watch?v=aD9Fjt184Qk)
 - [Test Session and Team Interviews Livestream](https://www.youtube.com/watch?v=R3sCo44NrCE)
 
