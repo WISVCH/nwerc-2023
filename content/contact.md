@@ -16,27 +16,27 @@ The NWERC 2023 is hosted by the [Delft University of Technology](https://www.tud
 
 # CHipCie
 The CHipCie takes care of the programming contest within Delft and consists of the following people.
-![CHipCie](/chipcie.webp)
+![CHipCie](/chipcie2023.webp)
 
 ## Top Row
 From left to right:
-* Thomas Verwoerd, _Commissioner of Coaches_
+* Yoshi van den Akker, _Commisioner of Streaming_
 * Maarten Sijm, _Commissioner of Jury Affairs_
+* Kasper van Duijne, _Treasurer_
+* Robert van Dijk, _Head of System Affairs_
+* Timothy van der Valk, _Commissioner of Promotion Affairs_
+* Thomas Verwoerd, _Commissioner of Coaches_
+
+## Middle Row:
+From left to right:
+* Joshua Gort, _Qualitate Qua_
 * Elise Deen, _Commissioner of Logistics Affairs_
+* Jan Piotrowski, _Commissioner of System Affairs_
+* Brian Witmer, _Committee Chair_
+* Els Brouwer, _Logistical Support_
 * Maarten Weyns, _Commissioner of System Affairs_
-* Yoshi van den Akker
-* Brian Witmer, _Commissioner_
 
 ## Bottom Row:
 From left to right:
-* Laura Pircalaboiu
-* Els Brouwer, _Qualitate Qua_
 * Nadyne Aretz, _Contest Director_
 * Raoul Bruens, _Secretary_
-* Merel Steenbergen
-* Robert van Dijk, _Head of System Affairs_
-
-## Not in picture:
- * Kasper van Duijne, _Treasurer_
- * Timothy van der Valk, _Commissioner of Promotion affairs_
- * Jan Piotrowski, _Commissioner of System Affairs_ 
